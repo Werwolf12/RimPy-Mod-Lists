@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModsConfigData>
+	<version>1.4.3641 rev649
+</version>
+	<activeMods>
+		<li>ludeon.rimworld</li>
+		<li>brrainz.harmony</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>regrowth.botr.core</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>vanillaexpanded.vpsycastse</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>sirmashedpotato.morrowrim.moonsugarandskooma</li>
+		<li>pphhyy.escp.spriggan</li>
+		<li>sirmashedpotato.escp.trolls</li>
+	</activeMods>
+	<knownExpansions>
+		<li>ludeon.rimworld</li>
+	</knownExpansions>
+</ModsConfigData>
